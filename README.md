@@ -1,5 +1,5 @@
-## Facility-Booking-Module
-# This Python code represents a facility booking module that allows users to book different facilities at specific time slots. 
+# Facility-Booking-Module
+## This Python code represents a facility booking module that allows users to book different facilities at specific time slots. 
  Here's an explanation of the code:
 
 The code begins by importing the datetime module from the Python standard library. This module is used for working with dates and times.
